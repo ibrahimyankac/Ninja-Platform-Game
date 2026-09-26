@@ -97,4 +97,4 @@ ninja_game/
 
 ## 🙏 Credits
 
-The core engine and pixel-art assets follow [DaFluffyPotato](https://www.youtube.com/@DaFluffyPotato)'s Pygame platformer tutorial.
+The core engine and pixel-art assets follow [DaFluffyPotato](https://www.youtube.com/@DaFluffyPotato)'s Pygame platformer tutorial. The player, enemy and projectile sprites were recolored for this version.
