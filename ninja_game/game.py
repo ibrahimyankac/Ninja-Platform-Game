@@ -90,7 +90,7 @@ class Game:
         exit_button = main_menu.Button(390, 260, exit_img, 0.8)
         tutorial_button = main_menu.Button(580, 420, tutorial_img, 0.8)
         font = pygame.font.SysFont("Times New Roman", 72)
-        title = font.render("NINJA GAME", True, (255,69,0))
+        title = font.render("NINJA GAME", True, (167,139,250))
 
         player_images =[
             pygame.image.load('data/images/entities/player/run/0.png'),
@@ -361,8 +361,8 @@ class Game:
         exit_img = pygame.image.load('data/images/exit_btn.png')
         exit_button = main_menu.Button(223, 300, exit_img, 0.7)
         font = pygame.font.SysFont("Times New Roman", 30)
-        msg1 = font.render("CONGRATS YOU ARE FINISHED", True, (255,69,0))
-        msg2 = font.render("THE GAME", True, (255,69,0))
+        msg1 = font.render("CONGRATS YOU ARE FINISHED", True, (167,139,250))
+        msg2 = font.render("THE GAME", True, (167,139,250))
 
         run = True
         while run:

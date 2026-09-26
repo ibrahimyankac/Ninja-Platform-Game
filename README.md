@@ -11,7 +11,7 @@ A pixel-art 2D platformer built with **Python** and **Pygame**. Run, wall-jump a
 - **Six levels** loaded from JSON tile maps, with a circular transition between stages and a finish screen at the end
 - **Fluid movement:** running, jumping, wall sliding, wall jumps and a dash that also works as your attack
 - **Enemies that fight back:** they patrol their platforms and shoot when you are on the same height
-- **Game feel:** screen shake, spark and particle effects, falling leaves, parallax clouds and sprite outlines
+- **Game feel:** screen shake, spark and particle effects, falling cherry blossom petals, parallax clouds and sprite outlines
 - **Sound:** background music, ambience and sound effects for jumping, dashing, shooting and hits
 - **Main menu, tutorial and pause screens**
 - **Built-in level editor** (`editor.py`) with auto-tiling, on/off-grid placement and JSON save
@@ -97,4 +97,4 @@ ninja_game/
 
 ## 🙏 Credits
 
-The core engine and pixel-art assets follow [DaFluffyPotato](https://www.youtube.com/@DaFluffyPotato)'s Pygame platformer tutorial. The player, enemy and projectile sprites were recolored for this version.
+The core engine and pixel-art assets follow [DaFluffyPotato](https://www.youtube.com/@DaFluffyPotato)'s Pygame platformer tutorial. For this version the whole game was recolored with a cherry blossom theme: the player, enemies, tiles, trees, sky and menu buttons.
